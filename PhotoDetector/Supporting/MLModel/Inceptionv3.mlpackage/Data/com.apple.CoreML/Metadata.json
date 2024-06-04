@@ -1,0 +1,6 @@
+{
+  "MLModelVersionStringKey" : "--",
+  "MLModelDescriptionKey" : "Detects the dominant objects present in an image from a set of 1000 categories such as trees, animals, food, vehicles, person etc. The top-5 error from the original publication is 5.6%.",
+  "MLModelAuthorKey" : "Original Paper: Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jonathon Shlens, Zbigniew Wojna. Keras Implementation: François Chollet",
+  "MLModelLicenseKey" : "MIT License. More information available at https:\/\/github.com\/fchollet\/keras\/blob\/master\/LICENSE"
+}
